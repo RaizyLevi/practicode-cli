@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBXg8hzVcGSKwrHrpLIlH8A39ln+BFckCe2joGWT0YjOH5838UrejSp2PdA+ta24zpTs2sNgFetc3GOOEO3EdA==",
+  "success": true,
+  "projectFilePath": "T:\\הנדסת תוכנה\\שנה ב תשפו\\פרקטיקוד\\תלמידות\\רייזי\\CLI\\CLI\\CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hitmachut\\.nuget\\packages\\caseextensions\\1.1.0\\caseextensions.1.1.0.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\farlee2121.system.commandline.propertymapbinder\\1.0.0\\farlee2121.system.commandline.propertymapbinder.1.0.0.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\farlee2121.system.commandline.propertymapbinder.nameconventionbinder\\1.0.0\\farlee2121.system.commandline.propertymapbinder.nameconventionbinder.1.0.0.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\system.commandline\\2.0.7\\system.commandline.2.0.7.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.5\\microsoft.netcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

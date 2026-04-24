@@ -1,11 +1,193 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "CaseExtensions/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CaseExtensions.dll": {
+            "related": ".runtimeconfig.json"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/CaseExtensions.dll": {
+            "related": ".runtimeconfig.json"
+          }
+        }
+      },
+      "farlee2121.System.CommandLine.PropertyMapBinder/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.CommandLine": "2.0.0-beta2.21617.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Core.dll": {}
+        }
+      },
+      "farlee2121.System.CommandLine.PropertyMapBinder.NameConventionBinder/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "CaseExtensions": "1.1.0",
+          "farlee2121.System.CommandLine.PropertyMapBinder": "1.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/NameConventionBinder.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NameConventionBinder.dll": {}
+        }
+      },
+      "System.CommandLine/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.CommandLine.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.CommandLine.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "resource": {
+          "lib/net8.0/cs/System.CommandLine.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net8.0/de/System.CommandLine.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net8.0/es/System.CommandLine.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net8.0/fr/System.CommandLine.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net8.0/it/System.CommandLine.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net8.0/ja/System.CommandLine.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net8.0/ko/System.CommandLine.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net8.0/pl/System.CommandLine.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net8.0/pt-BR/System.CommandLine.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net8.0/ru/System.CommandLine.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net8.0/tr/System.CommandLine.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net8.0/zh-Hans/System.CommandLine.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net8.0/zh-Hant/System.CommandLine.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CaseExtensions/1.1.0": {
+      "sha512": "zEvNeodNmNai8aQ4YfhHKCTWmlMwXM8NHR+8x8WsgY5eT4eDW0yFGrO+voQ1lCzyAXJ1Djv6dUAiyraVTueapA==",
+      "type": "package",
+      "path": "caseextensions/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "caseextensions.1.1.0.nupkg.sha512",
+        "caseextensions.nuspec",
+        "lib/net5.0/CaseExtensions.dll",
+        "lib/net5.0/CaseExtensions.runtimeconfig.json",
+        "lib/netstandard1.3/CaseExtensions.dll",
+        "lib/netstandard2.0/CaseExtensions.dll"
+      ]
+    },
+    "farlee2121.System.CommandLine.PropertyMapBinder/1.0.0": {
+      "sha512": "NeHtCD+QnvKQsNHEC7G7YFYC8MR49A5kKsABMLkbUNCALR2HtYAAqi05VrGrc2sQgx0BTerODlRW4QcCsQueIg==",
+      "type": "package",
+      "path": "farlee2121.system.commandline.propertymapbinder/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "farlee2121.system.commandline.propertymapbinder.1.0.0.nupkg.sha512",
+        "farlee2121.system.commandline.propertymapbinder.nuspec",
+        "lib/netstandard2.0/Core.dll"
+      ]
+    },
+    "farlee2121.System.CommandLine.PropertyMapBinder.NameConventionBinder/1.0.0": {
+      "sha512": "15GZjGY+igConZWy+N8h7pjgT7O7ovJU5NoGVr4HP0Si4FIy7OB1aZlFqYw5WQZ8lAU4EdtukJNI3f8VKV4OJA==",
+      "type": "package",
+      "path": "farlee2121.system.commandline.propertymapbinder.nameconventionbinder/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "farlee2121.system.commandline.propertymapbinder.nameconventionbinder.1.0.0.nupkg.sha512",
+        "farlee2121.system.commandline.propertymapbinder.nameconventionbinder.nuspec",
+        "lib/netstandard2.0/NameConventionBinder.dll"
+      ]
+    },
+    "System.CommandLine/2.0.7": {
+      "sha512": "ih4yNLLF2Ebz85xJJBaPeddLa4d1AekYId7Y1g8oSsEaBHHd/CtyeBJ+tDvQadqeXz7i591K5ry/td+4aaHnQA==",
+      "type": "package",
+      "path": "system.commandline/2.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "README.md",
+        "lib/net8.0/System.CommandLine.dll",
+        "lib/net8.0/System.CommandLine.pdb",
+        "lib/net8.0/System.CommandLine.xml",
+        "lib/net8.0/cs/System.CommandLine.resources.dll",
+        "lib/net8.0/de/System.CommandLine.resources.dll",
+        "lib/net8.0/es/System.CommandLine.resources.dll",
+        "lib/net8.0/fr/System.CommandLine.resources.dll",
+        "lib/net8.0/it/System.CommandLine.resources.dll",
+        "lib/net8.0/ja/System.CommandLine.resources.dll",
+        "lib/net8.0/ko/System.CommandLine.resources.dll",
+        "lib/net8.0/pl/System.CommandLine.resources.dll",
+        "lib/net8.0/pt-BR/System.CommandLine.resources.dll",
+        "lib/net8.0/ru/System.CommandLine.resources.dll",
+        "lib/net8.0/tr/System.CommandLine.resources.dll",
+        "lib/net8.0/zh-Hans/System.CommandLine.resources.dll",
+        "lib/net8.0/zh-Hant/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/System.CommandLine.dll",
+        "lib/netstandard2.0/System.CommandLine.pdb",
+        "lib/netstandard2.0/System.CommandLine.xml",
+        "lib/netstandard2.0/cs/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/de/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/es/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/fr/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/it/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/ja/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/ko/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/pl/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/pt-BR/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/ru/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/tr/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/zh-Hans/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/zh-Hant/System.CommandLine.resources.dll",
+        "system.commandline.2.0.7.nupkg.sha512",
+        "system.commandline.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "System.CommandLine >= 2.0.7",
+      "farlee2121.System.CommandLine.PropertyMapBinder.NameConventionBinder >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\hitmachut\\.nuget\\packages\\": {},
@@ -56,6 +238,16 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "System.CommandLine": {
+            "target": "Package",
+            "version": "[2.0.7, )"
+          },
+          "farlee2121.System.CommandLine.PropertyMapBinder.NameConventionBinder": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

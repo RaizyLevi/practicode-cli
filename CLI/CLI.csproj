@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="farlee2121.System.CommandLine.PropertyMapBinder.NameConventionBinder" Version="1.0.0" />
+    <PackageReference Include="System.CommandLine" Version="2.0.7" />
+  </ItemGroup>
+
 </Project>
