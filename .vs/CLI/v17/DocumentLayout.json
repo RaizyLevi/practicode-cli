@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D9\u05D9\u05D6\u05D9\\CLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52614517-5D6E-4C68-A463-78C2461E50CC}|CLI\\CLI.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D9\u05D9\u05D6\u05D9\\cli\\cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52614517-5D6E-4C68-A463-78C2461E50CC}|CLI\\CLI.csproj|solutionrelative:cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D9\u05D9\u05D6\u05D9\\CLI\\CLI\\Program.cs",
+              "RelativeDocumentMoniker": "CLI\\Program.cs",
+              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D9\u05D9\u05D6\u05D9\\CLI\\CLI\\Program.cs",
+              "RelativeToolTip": "CLI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:58:58.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
