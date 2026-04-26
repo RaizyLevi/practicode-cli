@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MyCodeMerger</id>
+    <version>1.0.0</version>
+    <authors>CLI</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" commit="44b7cefa4e53bb5ff16c6b9210bbec4b02af3d44" />
+  </metadata>
+  <files>
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\CLI.dll" target="tools\net8.0\any\CLI.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\CLI.deps.json" target="tools\net8.0\any\CLI.deps.json" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\CLI.runtimeconfig.json" target="tools\net8.0\any\CLI.runtimeconfig.json" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\CLI.pdb" target="tools\net8.0\any\CLI.pdb" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\CaseExtensions.dll" target="tools\net8.0\any\CaseExtensions.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\Core.dll" target="tools\net8.0\any\Core.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\NameConventionBinder.dll" target="tools\net8.0\any\NameConventionBinder.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\System.CommandLine.dll" target="tools\net8.0\any\System.CommandLine.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\cs\System.CommandLine.resources.dll" target="tools\net8.0\any\cs\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\de\System.CommandLine.resources.dll" target="tools\net8.0\any\de\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\es\System.CommandLine.resources.dll" target="tools\net8.0\any\es\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\fr\System.CommandLine.resources.dll" target="tools\net8.0\any\fr\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\it\System.CommandLine.resources.dll" target="tools\net8.0\any\it\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\ja\System.CommandLine.resources.dll" target="tools\net8.0\any\ja\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\ko\System.CommandLine.resources.dll" target="tools\net8.0\any\ko\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\pl\System.CommandLine.resources.dll" target="tools\net8.0\any\pl\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\pt-BR\System.CommandLine.resources.dll" target="tools\net8.0\any\pt-BR\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\ru\System.CommandLine.resources.dll" target="tools\net8.0\any\ru\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\tr\System.CommandLine.resources.dll" target="tools\net8.0\any\tr\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\zh-Hans\System.CommandLine.resources.dll" target="tools\net8.0\any\zh-Hans\System.CommandLine.resources.dll" />
+    <file src="T:\הנדסת תוכנה\שנה ב תשפו\פרקטיקוד\תלמידות\רייזי\CLI\CLI\bin\Release\net8.0\publish\zh-Hant\System.CommandLine.resources.dll" target="tools\net8.0\any\zh-Hant\System.CommandLine.resources.dll" />
+  </files>
+</package>

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qra7CoAXnacR48f5+gCs2AYKECCGMtBL7Pa4L73roK62K2Zx90dmITWEL98rqOwwFiq23Bw5rqaN1l2icVGjjQ==",
+  "dgSpecHash": "B1B4QyaNS00=",
   "success": true,
   "projectFilePath": "T:\\הנדסת תוכנה\\שנה ב תשפו\\פרקטיקוד\\תלמידות\\רייזי\\CLI\\CLI\\CLI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hitmachut\\.nuget\\packages\\caseextensions\\1.1.0\\caseextensions.1.1.0.nupkg.sha512",
-    "C:\\Users\\hitmachut\\.nuget\\packages\\farlee2121.system.commandline.propertymapbinder\\1.0.0\\farlee2121.system.commandline.propertymapbinder.1.0.0.nupkg.sha512",
-    "C:\\Users\\hitmachut\\.nuget\\packages\\farlee2121.system.commandline.propertymapbinder.nameconventionbinder\\1.0.0\\farlee2121.system.commandline.propertymapbinder.nameconventionbinder.1.0.0.nupkg.sha512",
-    "C:\\Users\\hitmachut\\.nuget\\packages\\system.commandline\\2.0.7\\system.commandline.2.0.7.nupkg.sha512"
+    "C:\\Users\\shufra\\.nuget\\packages\\caseextensions\\1.1.0\\caseextensions.1.1.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\farlee2121.system.commandline.propertymapbinder\\1.0.0\\farlee2121.system.commandline.propertymapbinder.1.0.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\farlee2121.system.commandline.propertymapbinder.nameconventionbinder\\1.0.0\\farlee2121.system.commandline.propertymapbinder.nameconventionbinder.1.0.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
   ],
   "logs": []
 }

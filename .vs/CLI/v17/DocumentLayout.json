@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CLI",
+              "Title": "CLI.csproj",
               "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D9\u05D9\u05D6\u05D9\\CLI\\CLI\\CLI.csproj",
               "RelativeDocumentMoniker": "CLI\\CLI.csproj",
               "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D9\u05D9\u05D6\u05D9\\CLI\\CLI\\CLI.csproj",
               "RelativeToolTip": "CLI\\CLI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-24T06:50:24.149Z",
               "IsPinned": true,
@@ -42,7 +42,7 @@
               "RelativeDocumentMoniker": "CLI\\Program.cs",
               "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D9\u05D9\u05D6\u05D9\\CLI\\CLI\\Program.cs",
               "RelativeToolTip": "CLI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAsAAAA",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAYwHQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T05:58:58.001Z",
               "EditorCaption": ""
